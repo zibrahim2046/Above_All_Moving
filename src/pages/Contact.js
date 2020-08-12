@@ -3,7 +3,7 @@ import React from 'react';
 const ContactPage = () => {
     return (
         <div>
-            <h1>Contact</h1>
+            <h1>CONTACT</h1>
         </div>
     );
 };
