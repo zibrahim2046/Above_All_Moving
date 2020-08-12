@@ -1,9 +1,12 @@
 import React from 'react';
 import React from 'react';
-import LandingPage from '../components/LandingPage';
 
 const MainPage = () => {
-    return <LandingPage />;
+    return (
+        <div>
+            <h1>HOME</h1>
+        </div>
+    );
 };
 
 export default MainPage;
